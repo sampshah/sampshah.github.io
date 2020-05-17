@@ -12,7 +12,7 @@ github_username:  Saumya-Shah
 disqus_shortname: saumya-1
 permalink: :title
 cover: "/assets/header_image.jpg"
-logo: "/assets/ss-logo.png"
+logo: "/assets/ss-logo.jpg"
 avatar: "/assets/headshot.jpg"
 ga_tracking_id: "UA-82647777-1"
 
@@ -87,12 +87,12 @@ social:
 # These are for automatically generating sharing metadata for FB and Twitter
 # OS Protocol is for sharing the source of your site, if you're interested. For more, see osprotocol.com
 protocols:
-    fb_image: "/assets/ss-logo.png"
+    fb_image: "/assets/ss-logo.jpg"
     fb_image_width: 612
     fb_image_height: 605
     fb_image_type: "image/jpg"
 
-    twitter_image: "/assets/ss-logo.png"
+    twitter_image: "/assets/ss-logo.jpg"
 
     os_repo: "https://github.com/sampshah/sampshah.github.io"
     os_rcs_type: "git"
