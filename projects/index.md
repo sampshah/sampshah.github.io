@@ -49,15 +49,15 @@ permalink: /projects/
       <i class="fa fa-calendar" aria-hidden="true"></i> {{ projects.date | date: "%B %-d, %Y" }}
       <br>
 
-      {% if projects.slides %}
+      {% if projects.report %}
         <span class="projects-resource">
           <i class="fa fa-file-pdf-o" aria-hidden="true"></i>
-          {% if projects.slides contains ".pdf" %}
-            <a href="{{ site.pdfs }}/{{ projects.slides }}">
+          {% if projects.report contains ".pdf" %}
+            <a href="{{ site.pdfs }}/{{ projects.report }}">
           {% else %}
-            <a href="{{ projects.slides }}">
+            <a href="{{ projects.report }}">
           {% endif %}
-          Slides</a>
+          Report</a>
         </span>
       {% endif %}
       
