@@ -8,6 +8,7 @@ description: >
   A personal website about learnings I discover in my journey.
 baseurl: ""
 url: "https://sampshah.github.io"
+username: sampshah
 github_username:  Saumya-Shah
 disqus_shortname: saumya-1
 permalink: :title
