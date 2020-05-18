@@ -26,6 +26,7 @@ permalink: /projects/
       <span class="post-title"><strong><big> {{ projects.title }} </big></strong></span>
       <br>
       {% if projects.description %}
+      Description:
       <span class="post-date projects-description">{{ projects.description }} </span>
       {% endif %}
       <br>
