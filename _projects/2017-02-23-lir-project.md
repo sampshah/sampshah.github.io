@@ -1,6 +1,6 @@
 ---
 title: "Constrained Action-Space Representation for Physical Manipulation"
-subtitle: "Learning by seeing"
+description: "Learning by seeing"
 event: "Course Project: Learning in Robotics, 2020"
 event-fulltitle:
 event-url: ""

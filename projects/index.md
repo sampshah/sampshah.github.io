@@ -25,8 +25,8 @@ permalink: /projects/
     <div class="projects">
       <span class="post-title"><strong><big> {{ projects.title }} </big></strong></span>
       <br>
-      {% if projects.subtitle %}
-      <span class="post-date projects-subtitle"> - {{ projects.subtitle }} </span>
+      {% if projects.description %}
+      <span class="post-date projects-description">{{ projects.description }} </span>
       {% endif %}
       <br>
 
