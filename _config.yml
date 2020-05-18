@@ -44,6 +44,7 @@ exclude:
 # Collections
 collections:
   - projects
+  - lessons 
 
 #
 # Social settings are used in two places:
