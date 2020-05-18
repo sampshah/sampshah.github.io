@@ -17,7 +17,7 @@ permalink: /lessons/
   {% else %}
     {% assign currentyear = lessons.date | date: "%Y" %}
     {% if currentyear != previousyear %}
-      <h2 class="lessons-section" id="y{{ lessons.date | date: "%Y"}}">{{ lesson_num }}</h2>
+      <h2 class="lessons-section" id="y{{ lessons.date | date: "%Y"}}">{{ currentyear }}</h2>
       {% assign previousyear = currentyear %}
       {% assign lesson_num = lesson_num + 1 %}
     {% endif %}
