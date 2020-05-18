@@ -11,18 +11,21 @@ permalink: /lessons/
   <br>
   {% if lessons.date > site.time %}
     {% if forloop.first %}
-      <!-- <h2 class="lessons-section" id="upcoming">Upcoming</h2> -->
+      {% assign lesson_num = 1 %}
+      <h2 class="lessons-section" id="upcoming">Upcoming</h2>
     {% endif %}
   {% else %}
     {% assign currentyear = lessons.date | date: "%Y" %}
     {% if currentyear != previousyear %}
-      <!-- <h2 class="lessons-section" id="y{{ lessons.date | date: "%Y"}}">{{ currentyear }}</h2> -->
+      <h2 class="lessons-section" id="y{{ lessons.date | date: "%Y"}}">{{ lesson_num }}</h2>
       {% assign previousyear = currentyear %}
+      {% assign lesson_num = lesson_num + 1 %}
     {% endif %}
   {% endif %}
 
 
     <div class="lessons">
+      
       <span class="post-title"><strong><big> {{ lessons.title }} </big></strong></span>
       <br>
       {% if lessons.description %}
