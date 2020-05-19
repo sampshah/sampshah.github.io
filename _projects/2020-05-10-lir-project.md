@@ -3,7 +3,7 @@ title: "Constrained Action-Space Representation for Physical Manipulation"
 description: "Learning an action generator using a goal conditioned GAN penalized by a normalized diversification loss that prevents mode collapse and captures the real distribution better. A visual Model Predictive Controller was implemented for control. Details of approach and implementation can be found in report and github code linked below."
 event: "Course Project: Learning in Robotics, 2020"
 event-fulltitle:
-event-url: ""
+event-url: "https://github.com/goodmattg/ndivplanning"
 location: "University of Pennsylvania, PA"
 video: "https://github.com/goodmattg/ndivplanning/blob/master/docs/demo.gif"
 # post: "experience-gophercon-india"
