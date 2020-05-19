@@ -18,4 +18,4 @@ There will always come situations when there will be no "deterministically best"
 
 ### Thoughts
 **Thought 1:**  
-We are tiny humans, so sensitive to tiniest things like viruses; who barely survive for a 100 years in the universe which has been here since billions of those; only within a 100 degree range, on the scale which knows no bounds; too tiny to brag about a few kgs, a few curves, a few leisures, a few assents, all of which turn into ashes one day. Try to focus on what remains with us on the deathbed, the memories, the experiences we had, and the people we met. Be grateful, be humble, keep it simple.
+We are tiny humans, so sensitive to tiniest things like viruses; who barely survive for a 100 years in the universe which has been here since billions of those; only within a 100 degree range, on the scale which knows no bounds; too tiny to brag about a few kgs, a few curves, a few leisures, a few assets, all of which shall turn into ashes one day. Try to focus on what remains with us on the deathbed, the memories, the experiences we had, and the people we met. Be grateful, be humble, keep it simple.
