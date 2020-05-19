@@ -31,7 +31,7 @@ permalink: /projects/
       {% endif %}
       <br>
 
-      <i class="fa fa-comments-o" aria-hidden="true"></i>
+      <i class="fa fa-code" aria-hidden="true"></i>
       {% if projects.event-url %}
       <a href="{{ projects.event-url }}"
        title="{% if projects.event-fulltitle %}{{ projects.event-fulltitle }}{% else %}{{ projects.event }}{% endif %}
