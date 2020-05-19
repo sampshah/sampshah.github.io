@@ -3,7 +3,7 @@ layout: page
 title: Books
 permalink: /books/
 ---
-#### Just began reading recently again. Will try to catch up. Following are some of the recent books I have read, and my thoughts on them
+#### Just began reading recently again. Will try to catch up. Following are some of the recent books I have read, and my thoughts on them.
 
 **How to Win Friends and Influence People** - by Dale Carnegie    
 One of the best and most recommended books for a reason. The kind of self-help book that gives too many examples to redundantly prove an idea so that it sticks to mind. It helps you change your perspective, and re-think about how you interact with people. It is useful only if you start acting on it, implement the ideas, and actually try enough to make it a habit. 
