@@ -17,7 +17,10 @@ You shall never regret the time you spent on yourself.
 There will always come situations when there will be no "deterministically best" choice that you can make given the options. None will seem the best, all of them will have their pros and cons, and you wouldn't be able to weigh them. *TODO:* Do not waste time thinking too much on the options once you know the pros and cons. Wise is the one who makes the choice which seems good and works hard to make it the best. Time is of utmost importance, don't spend time thinking, spend time doing. [Be a doer](https://www.youtube.com/watch?v=sYMqVwsewSg). 
 
 **Lesson 4:**  
-When nothing seems to work, when you are stuck, or there is a mammoth goal to accomplish, divide and conquer is the way to go.
+When nothing seems to work, when you are stuck, or there is a mammoth goal to accomplish, divide and conquer is the way to go.  
+
+**Lesson 5:**  
+Be patient. Be self aware. Don't react, respond. See the bigger picture.  
 
 ### Thoughts
 **Thought 1:**  
