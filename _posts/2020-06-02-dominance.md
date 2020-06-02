@@ -16,4 +16,4 @@ Ego boost is required every now and then. But when you want excess of it, you ge
 These were just some of the things I had learnt the hard way and realize are important. Self reflection has got the better out of me. I am still working on being better at it. Being self-aware in my thoughts and actions, and eventually being a better human. Every once in a while, reflect and see if you would like your son or daughter, and more importantly yourself, be like the person you are today, it is never too late to change and all it takes is a decision.  
 
 
-P.S. This is the first draft. I shall continue refining it for the next week.
+P.S. This is the first draft. I shall continue refining it for the next week. There is a lot in each sentence and there is a lot left untold. But majorly, I have tried to encompass most of my thoughts.
