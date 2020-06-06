@@ -12,7 +12,7 @@ Hey there, welcome to my website! I am Saumya Shah.
 
 I am currently pursuing Master's in Robotics at [University of Pennylania](https://www.grasp.upenn.edu/). I graduated from [National Institute of Technology, Tiruchirappalli](https://www.nitt.edu/) in 2019 with a Bachelor's in Mechanical Engineering (Honors), along with a minor in Electronics and Communications Engineering. 
 
-Due to interdisciplinary nature of Robotics, I have a very diverse background. I believe in Robotics and the impact of robotics in the long term. I love to discuss ideas, try new things, fail and yet keep chasing the goals. Let's talk about anything and everything that requires thinking unconventionally!  
+Due to interdisciplinary nature of Robotics, I have a very diverse background. I believe in Robotics and the positive impact of robotics in the long term. I love to discuss ideas, try new things, fail and yet keep chasing the goals. Let's talk about anything and everything that requires thinking unconventionally!  
 
 You can find me at the following places but the most reliable way to reach me is to send an email.
 
