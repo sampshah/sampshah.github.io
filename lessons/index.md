@@ -22,6 +22,14 @@ When nothing seems to work, when you are stuck, or there is a mammoth goal to ac
 **Lesson 5:**  
 Be patient. Be self aware. Don't react, respond. See the bigger picture.  
 
+
+
 ### Thoughts
 **Thought 1:**  
-We are tiny humans, so sensitive to tiniest things like viruses; who barely survive for a 100 years in the universe which has been here since billions of those; only within a 100 degree range, on the scale which knows no bounds; too tiny to brag about a few kgs, a few curves, a few leisures, a few assets, all of which shall turn into ashes one day. Try to focus on what remains with us on the deathbed, the memories, the experiences we had, and the people we met. Be grateful, be humble, keep it simple.
+We are tiny humans, so sensitive to tiniest things like viruses; who barely survive for a 100 years in the universe which has been here since billions of those; only within a 100 degree range, on the scale which knows no bounds; too tiny to brag about a few kgs, a few curves, a few leisures, a few assets, all of which shall turn into ashes one day. Try to focus on what remains with us on the deathbed, the memories, the experiences we had, and the people we met. Be grateful, be humble, keep it simple.  
+
+**Thought 2:**  
+How easy can it be to never see someone you know so closely ever again in life? Just knowing about the possibility of being able to see someone makes you feel at ease. But if someone dies, the possibility is taken away. You can never see the person whom you may not have ever seen again anyway, but now, you cannot for sure, even if you wanted to. And that is what gives an unhappy feeling.  
+
+**Thought 3:**  
+Death is still an unclear concept and the effects of it are very relative. For some who know the victim not so closely, it is just the uneasy feeling that is mentioned in thought 2, but for others who are closely related, they lose much more, their lives are actually affected and they are the ones who feel the loss. But there is a third category, the outsiders. For them, they are just numbers. During the COVID pandemic, people analyzed curves, statistics, a million affected, 2 millons now, and so on. But only when there is one affected by it who is closely related to you, that you realize and see beyond the numbers.   
