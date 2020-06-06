@@ -14,13 +14,16 @@ Brilliance is to know when to stop.
 You shall never regret the time you spent on yourself.
 
 **Lesson 3:**  
-There will always come situations when there will be no "deterministically best" choice that you can make given the options. None will seem the best, all of them will have their pros and cons, and you wouldn't be able to weigh them. *TODO:* Do not waste time thinking too much on the options once you know the pros and cons. Wise is the one who makes the choice which seems good and works hard to make it the best. Time is of utmost importance, don't spend time thinking, spend time doing. [Be a doer](https://www.youtube.com/watch?v=sYMqVwsewSg). 
+There will always come situations when there will be no "deterministically best" choice that you can make given the options. None will seem the best, all of them will have their pros and cons, and you wouldn't be able to weigh them. *TODO:* Do not waste time thinking too much on the options once you know the pros and cons. Wise is the one who makes the choice which seems good and works hard to make it the best. Time is of utmost importance, don't spend time thinking, spend time doing. [Be a doer](https://www.youtube.com/watch?v=sYMqVwsewSg).  
 
 **Lesson 4:**  
 When nothing seems to work, when you are stuck, or there is a mammoth goal to accomplish, divide and conquer is the way to go.  
 
 **Lesson 5:**  
 Be patient. Be self aware. Don't react, respond. See the bigger picture.  
+
+**Lesson 6:**  
+Learn to prioritize. You cannot make time, you can only sacrifice. Sacrifice the low priority tasks to get more time for high priority tasks. Most of the success in life is decided about how well you priorities, and the remaining is just discipline and in the end, luck.
 
 
 
