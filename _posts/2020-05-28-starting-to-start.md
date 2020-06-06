@@ -27,4 +27,3 @@ Last but not the least in any way, avoiding distraction is one of the most impor
 With this being said, congratulations that you have thought of starting something new. All the best, I wish you all the success. Have a fun time learning!
 
 
-P.S. This is the first draft. I shall continue refining it for the next week.
