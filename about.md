@@ -14,6 +14,8 @@ I am currently pursuing Master's in Robotics at [University of Pennylania](https
 
 Due to interdisciplinary nature of Robotics, I have a very diverse background. I believe in Robotics and the positive impact of robotics in the long term. I love to discuss ideas, try new things, fail and yet keep chasing the goals. Let's talk about anything and everything that requires thinking unconventionally!  
 
+Here is my [resume](https://drive.google.com/file/d/1U0S0bOpat6SzQO6fNgfLv2fHgMha-_Aw/view?usp=sharing). 
+
 You can find me at the following places but the most reliable way to reach me is to send an email.
 
 <div align="center">
