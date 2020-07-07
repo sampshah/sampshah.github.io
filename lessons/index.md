@@ -38,5 +38,5 @@ How easy can it be to never see someone you know so closely ever again in life? 
 Death is still an unclear concept and the effects of it are very relative. For some who know the victim not so closely, it is just the uneasy feeling that is mentioned in thought 2, but for others who are closely related, they lose much more, their lives are actually affected and they are the ones who feel the loss. But there is a third category, the outsiders. For them, they are just numbers. During the COVID pandemic, people analyzed curves, statistics, a million affected, 2 millons now, and so on. But only when there is one affected by it who is closely related to you, that you realize and see beyond the numbers.   
 
 
-### Words for myself  
-"The way through the challenge is to get still and ask yourself what is the next right move, not to think about the whole lot of things, but the next move and then the next move, and so on. Do not be overwhelmed it because you know your life is much bigger than that one moment. You are not defined by what somebody says, not by that one failure."  -Oprah Winfrey
+### Some words for myself  
+"The way through the challenge is to get still and ask yourself what is the next right move, not to think about the whole lot of things, but the next move and then the next move, and so on. Do not be overwhelmed it because you know your life is much bigger than that one moment. You are not defined by what somebody says, not by that one failure."  -[Oprah Winfrey](https://www.youtube.com/watch?v=LkSgxuQrYwY)
