@@ -25,7 +25,8 @@ char c = (char)x;  // character from ascii
 ```
 
 
-#### Dynamic Programming:
+#### Dynamic Programming
+These must have:  
 - Overlapping sub-problems: Same problems seen multiple times
 - Optimal Sub-Structure: Optimal solution to sub-problem is part of real solution
 
