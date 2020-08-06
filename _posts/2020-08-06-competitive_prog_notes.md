@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Handy Snippets | Tech
+title: Competitive Programming Notes | Tech
 comments: true
 ---
 
